@@ -1,8 +1,19 @@
 body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("img/Gradient\ 1.PNG");
+    background-size: cover;
 }
 
 div{
     margin-bottom: 20px;
+}
+
+button{
+    color:rgb(206, 79, 79);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
