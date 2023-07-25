@@ -1,11 +1,11 @@
 body{
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("img/Gradient\ 1.PNG");
+    font-family: 'ZCOOL KuaiLe', sans-serif;    background-image: url("img/Gradient\ 1.PNG");
     background-size: cover;
 }
 
 div{
     margin-bottom: 20px;
+    font-family: 'ZCOOL KuaiLe', sans-serif;
 }
 
